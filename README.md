@@ -1,2 +1,3 @@
 # react-profiles-card
-Created with CodeSandbox
+
+A basic React app to practice. Visit the blog for step-by-step tutorial: [here](#)
