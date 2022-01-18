@@ -115,3 +115,15 @@ button:hover {
 		/* grid-template-rows: repeat(1, 1fr); */
 	}
 }
+
+/* app.js styles */
+
+.heading {
+	display: flex;
+	justify-content: center;
+	font-size: 2.3rem;
+	align-items: center;
+	padding: 1rem;
+	background: #072227;
+	color: #fff;
+}
